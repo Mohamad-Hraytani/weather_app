@@ -27,7 +27,7 @@
 - Documentation: Provides meaningful comments in the code to explain decisions and logic.
 
 # Getting Started
-- Clone the repository: git clone https://github.com/your-username/weather-app.git
+- Clone the repository: git clone https://github.com/Mohamad-Hraytani/weather_app
 - Install Flutter: Flutter Installation Guide
 - Get an API key from OpenWeatherMap: OpenWeatherMap API Key
 - Replace YOUR_API_KEY in the code with your actual API key.
